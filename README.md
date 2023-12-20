@@ -1,4 +1,4 @@
-zzzzzzСоздаем Github - ферму. Прокачка акков для Gitcoin Passport.
+zzzzzzzСоздаем Github - ферму. Прокачка акков для Gitcoin Passport.
 
 main.js - файл с кодом на NodeJS
 
